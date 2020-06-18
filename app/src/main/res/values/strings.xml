@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Kanakku</string>
+
+    <!-- Strings for GatewayActivity -->
+    <string name="welcome_message">Welcome to Kanakku!</string>
+    <string name="gateway_instructions">Log-In to your existing account\nor\nCreate a new account</string>
+
+    <!-- Strings for LoginActivity and SignUpActivity -->
+    <string name="email">E-Mail</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="log_in">Log-In</string>
+    <string name="sign_up">Sign-Up</string>
+
+    <string name="sign_out">Sign-Out</string>
+
+    <!-- Strings for FamilyEntryActivity -->
+    <string name="family_entry_message">Time to enter your family</string>
+    <string name="family_entry_instructions">Create a new family\nor\nJoin an existing family</string>
+    <string name="join_family">Join an existing family</string>
+    <string name="create_family">Create a new family</string>
+
+    <!-- Strings for CreateFamilyActivity and JoinFamilyActivity -->
+    <string name="family_name">Family Name</string>
+    <string name="set_secret_code">Set Secret Code</string>
+    <string name="confirm_secret_code">Confirm Secret Code</string>
+    <string name="enter_secret_code">Secret Code</string>
+    <string name="done">Done</string>
+
+    <!-- Strings for RecordActivity -->
+    <string name="txn_label">Transaction Label</string>
+    <string name="txn_amt">Transaction Amount</string>
+    <string name="txn_record">Record Transaction</string>
+
+    <!-- Strings for LogViewActivity -->
+    <string name="empty_view_message">Log Is Empty</string>
+</resources>

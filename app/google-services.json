@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "115415487224",
+    "firebase_url": "https://kanakku-36219.firebaseio.com",
+    "project_id": "kanakku-36219",
+    "storage_bucket": "kanakku-36219.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115415487224:android:e2ada0090383030db6a10d",
+        "android_client_info": {
+          "package_name": "com.example.kanakku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115415487224-rpo5hd835aqp4ahmqvtet5fe26cg6kkq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kanakku",
+            "certificate_hash": "f7207a44939c25aaaad93ed4e99802680aafe6c2"
+          }
+        },
+        {
+          "client_id": "115415487224-5lve4fftvsu918t98opo1gbte8s160rd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1_5GP8-aWB2Kf3ro8o94R7nyr3tYYs3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115415487224-5lve4fftvsu918t98opo1gbte8s160rd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
